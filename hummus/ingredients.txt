@@ -5,3 +5,4 @@ garlic
 lemon
 salt
 cumin
+sweet potato
