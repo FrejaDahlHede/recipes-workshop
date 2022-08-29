@@ -2,3 +2,4 @@ grind coffe beans
 put in filter
 pour over hot water and let coffee drip into cup
 pour in milk (heated, optionally) when done to your desired taste
+enjoy drink
